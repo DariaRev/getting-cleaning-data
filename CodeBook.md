@@ -15,10 +15,10 @@ Here are the data for the project:
 7. Writing to txt file tidy dataset
 
 ## Variables
-train_subj, train_x, train_y, test_subj, test_x,test_y, features, act_labels - data from downloaded files
-activity - merged dataset
-activity_names - merged set with right activity names
-activity_means - final tidy dataset
+- train_subj, train_x, train_y, test_subj, test_x,test_y, features, act_labels - data from downloaded files
+- activity - merged dataset
+- activity_names - merged set with right activity names
+- activity_means - final tidy dataset
 
 ## How to use this and get tidy data?
 1. Download the data and unzip it to preferred directory
